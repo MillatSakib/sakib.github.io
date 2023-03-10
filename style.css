@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: auto;
+    background-color: aqua;
+}
+h1{
+text-align: center;
+}
+
+.navbar{
+list-style: none;
+background-color: blueviolet;
+margin: 0;
+padding: 0;
+width: auto;
+height: 50px;
+}
+.navbar ol{
+text-align: center;
+padding: 5px 20px;
+}
+.navbar img{
+    width: 50px;
+    float: left;
+    padding: 5px;
+}
+.navbar ol li{
+list-style: none;
+display: inline-block;
+padding: 10px 30px;
+color: wheat;
+
+}
+.navbar ol li:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.form{
+    width: 300px;
+    height: 200px;
+    border: 1px solid black;
+   margin: auto;
+   margin-top: 30px;
+   box-shadow: 1px 3px black;
+   background-image: url(https://cdn.pixabay.com/photo/2016/05/05/02/37/sunset-1373171__480.jpg);
+   background-repeat: no-repeat;
+   background-position:center;
+}
+form{
+    padding: 8px;
+    text-align: center;
+    color:blue;
+}
+.email
+{
+    padding: 5px;
+}
+.pass{
+    padding-right:22px;
+}
+.button{
+    margin-top: 8px;
+}
+.bt1:hover{
+border
+}
+.bt2{
+  margin-top: 3px;
+}
+.reg{
+    text-decoration: none;
+}
